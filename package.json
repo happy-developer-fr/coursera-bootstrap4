@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "\"This is the project for the coursera formation\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-developer-fr/coursera-bootstrap4.git"
+  },
+  "author": "cottet julien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happy-developer-fr/coursera-bootstrap4/issues"
+  },
+  "homepage": "https://github.com/happy-developer-fr/coursera-bootstrap4#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
